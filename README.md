@@ -1,4 +1,4 @@
-Hello, 5nizza!
+Hello, world!
 
 * First item
 * Second item with **bold** text
