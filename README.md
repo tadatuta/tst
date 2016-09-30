@@ -11,5 +11,5 @@ Hello, 5nizza!
 ```
 
 ```js
-console.log('hi!'); /* a comment in JS code */
+console.log('hi!'); /*a comment in JS code*/
 ```
