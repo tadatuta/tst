@@ -1,8 +1,10 @@
-Hello, 5nizza!
+# Hello, SmashingConf!
 
-* First item
-* Second item with **bold** text
-* Third item with a [link](http://ya.ru)
+## Plan
+
+* Go to Barselona
+* Tell about document translation
+* Keep calm
 
 ```css
 .block {
